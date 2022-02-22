@@ -597,6 +597,18 @@ electron-to-chromium@^1.4.71:
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.71.tgz#17056914465da0890ce00351a3b946fd4cd51ff6"
   integrity sha512-Hk61vXXKRb2cd3znPE9F+2pLWdIOmP7GjiTj45y6L3W/lO+hSnUSUhq+6lEaERWBdZOHbk2s3YV5c9xVl3boVw==
 
+embla-carousel-react@^6.2.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/embla-carousel-react/-/embla-carousel-react-6.2.0.tgz#25fbba759b294b54d6241a04ff56dca83bd3c511"
+  integrity sha512-XshB7pmmhso/fzENefflWw5/N3HqCjO8H5CkzQxuCQqV9w+bvEaBkjUZ6fxfqLUMMSKFWIQvMD6uo9f8oKS+2g==
+  dependencies:
+    embla-carousel "6.2.0"
+
+embla-carousel@6.2.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/embla-carousel/-/embla-carousel-6.2.0.tgz#c16b18abe50e05ccd03d0b8d0b738f6a87aea1e0"
+  integrity sha512-dSNsiQ7nmSQJZgbYfZCLdzrnznHwpaAcdJFcMRKgm/pjH1doOgxmfsvlMy4VfO4J11hLz8jm/W8WxSSDqfuu4w==
+
 emoji-regex@^9.2.2:
   version "9.2.2"
   resolved "https://registry.yarnpkg.com/emoji-regex/-/emoji-regex-9.2.2.tgz#840c8803b0d8047f4ff0cf963176b32d4ef3ed72"
@@ -1305,6 +1317,11 @@ lodash.merge@^4.6.2:
   version "4.6.2"
   resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.2.tgz#558aa53b43b661e1925a0afdfa36a9a1085fe57a"
   integrity sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==
+
+lodash@^4.17.21:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 loose-envify@^1.1.0, loose-envify@^1.4.0:
   version "1.4.0"
