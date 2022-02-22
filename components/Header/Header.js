@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 
 // Importing Assets 
-import Profile from "../../assets/Profile.png"
+import Profile from "../../assets/profile.png"
 const Header = () => {
   return (
     <div className='bg-primary text-white flex justify-between items-center px-8 py-2'>
